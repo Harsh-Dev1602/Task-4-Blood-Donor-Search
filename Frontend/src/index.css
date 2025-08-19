@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import 'animate.css';
+
+
+.Box_Shedow {
+    box-shadow: 2px 2px 1px -0.5px #cccc;
+}
+
+.Img_Bg {
+    background-image: url("../public/img.jpg");
+    background-position: center;
+    background-size: cover;
+}
