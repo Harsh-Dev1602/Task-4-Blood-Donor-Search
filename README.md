@@ -19,5 +19,5 @@ This is a full-stack web application designed to help users search for blood don
 ---
 🙋‍♂️ Developed By
 Harsh Suryavanshi
-RGPV, Bhopal
+Acropolis Institute of Technology & Research, Indore
 College Training Task
