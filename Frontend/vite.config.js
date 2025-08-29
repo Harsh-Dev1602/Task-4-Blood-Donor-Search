@@ -8,10 +8,10 @@ export default defineConfig({
      tailwindcss(),
   ],
    server: {
-    port: "https://blood-donor-steel.vercel.app",
+    port: 3002,
     proxy: {
       "/api": {
-        target: "https://blood-donor-backend-tx6x.onrender.com",
+        target: "http://localhost:3000",
         changeOrigin: true,
       },
     },
