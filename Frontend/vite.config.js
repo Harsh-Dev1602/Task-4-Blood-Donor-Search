@@ -11,7 +11,7 @@ export default defineConfig({
     port: 3002,
     proxy: {
       "/api": {
-        target: "http://localhost:3000",
+        target: "https://blood-donor-backend-tx6x.onrender.com",
         changeOrigin: true,
       },
     },
